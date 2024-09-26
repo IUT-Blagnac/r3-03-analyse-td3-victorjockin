@@ -20,6 +20,7 @@ Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" qu
 
 Issue::
 - https://github.com/IUT-Blagnac/tracabilite-template/issues/1
+- https://github.com/IUT-Blagnac/r3-03-analyse-td3-victorjockin/issues/2
 
 Importance::
 Must
@@ -30,6 +31,7 @@ Description::
 La méthode `hello()` doit retourner son paramètre quand on l'invoque avec un paramètre. 
 
 Issue::
+- https://github.com/IUT-Blagnac/r3-03-analyse-td3-victorjockin/issues/3
 
 Importance::
 Should
